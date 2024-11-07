@@ -5,7 +5,6 @@ I have made a compact yet feature-rich employee management system where admins c
 
 ## 🛠 Skills
 Javascript, React, Context Api, Tailwind css and Local Storage handling...
-## Run Locally
 
 ## Features
 - Admin and user roles with distinct privileges
